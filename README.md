@@ -1,7 +1,7 @@
-![banner](https://github.com/saadkhan712/saadkhan712/commit/7095b8ce4a7163108870894df72a0c7c1d2cf6d9)
+![banner](https://github.com/saadkhan712/saadkhan712/blob/main/Banner.PNG)
 <h1 align="center">Hi 👋, I'm Saad khan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="coding" align="right" height="300px">
+<img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="coding" align="right" height="250px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadkhan712&label=Profile%20views&color=0e75b6&style=flat" alt="saadkhan712" /> </p>
 
 - 🔭 I’m currently working on **shipify**
