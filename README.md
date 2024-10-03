@@ -1,4 +1,4 @@
-![banner](https://github.com/saadkhan712/saadkhan712/blob/main/Banner.PNG)
+![banner](https://github.com/saadkhan712/saadkhan712/blob/main/banner-fotor-2024100315214.png)
 <h1 align="center">Hi 👋, I'm Saad khan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="coding" align="right" height="250px">
