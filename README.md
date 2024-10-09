@@ -4,9 +4,9 @@
 <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="coding" align="right" height="250px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadkhan712&label=Profile%20views&color=0e75b6&style=flat" alt="saadkhan712" /> </p>
 
-- 🔭 I’m currently working on **shipify**
+- 🔭 I’m currently working on [shipify](https://github.com/saadkhan712/Project-shipify)
 
-- 👯 I’m looking to collaborate on **shipify**
+- 👯 I’m looking to collaborate on [shipify](https://github.com/saadkhan712/Project-shipify)
 
 - 🤝 I’m looking for help with [quiz game](https://github.com/saadkhan712/my-projects.git)
 
