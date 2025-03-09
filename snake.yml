@@ -1,5 +1,5 @@
 name: GitHub Snake Game
-
+#commit
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
